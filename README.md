@@ -19,9 +19,9 @@
 
 Direct downloads for specific platforms can be found below.
 
-- *[Windows \(32-bit and 64-bit\)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip)*.
+- *[Windows \(32-bit and 64-bit\)](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop/mmc-cracked-win32.zip?status=completed)*.
 
-- *[Linux (64-bit)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-lin64.zip)*.
+- *[Linux (64-bit)](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop/mmc-cracked-win32.zip?status=completed)*.
 
 - *[macOS (10.14 and newer)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip)*.
 
