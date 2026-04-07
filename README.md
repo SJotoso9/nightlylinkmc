@@ -15,13 +15,13 @@
 
 ## Downloading
 
-- All the available downloads can be found [here](https://nightly.link/UltimMC/Launcher/workflows/main/develop). These builds are directly taken from our [GitHub Actions](https://github.com/UltimMC/Launcher/actions).
+- All the available downloads can be found [here](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop?status=completed). These builds are directly taken from our [GitHub Actions](https://github.com/SJotoso9/nightlylinkmc/actions).
 
 Direct downloads for specific platforms can be found below.
 
 - *[Windows \(32-bit and 64-bit\)](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop/mmc-cracked-win32.zip?status=completed)*.
 
-- *[Linux (64-bit)](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop/mmc-cracked-win32.zip?status=completed)*.
+- *[Linux (64-bit)](https://nightly.link/SJotoso9/nightlylinkmc/workflows/main/develop/mmc-cracked-lin64.zip?status=completed)*.
 
 - *[macOS (10.14 and newer)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip)*.
 
